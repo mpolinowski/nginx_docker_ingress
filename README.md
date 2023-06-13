@@ -5,7 +5,7 @@
 This is the NGINX configuration that you can use to direct web traffic into your Docker cluster:
 
 
-[See User Guide for more information](https://mpolinowski.github.io/devnotes/2021-02-22-nginx-docker-ingress):
+[See User Guide for more information](https://mpolinowski.github.io/docs/DevOps/NGINX/2023-06-13-nginx-docker-ingress/2023-06-13):
 
 
 ```bash
